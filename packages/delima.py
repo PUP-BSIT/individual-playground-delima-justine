@@ -13,7 +13,7 @@ def justine_delima():
             case 1: #  Basic Info
                 print('\nAge: 19')
                 print('Birthdate: February 24, 2005')
-                print('Currentt Education: Polytechnic of the Philippines-Taguig\n')
+                print('Currentt School Attended: Polytechnic of the Philippines-Taguig\n')
             case 2: # Goal
                 print('\nGoal: To have a stable life.\n')
             case 3: # Comments
