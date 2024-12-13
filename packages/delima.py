@@ -24,7 +24,7 @@ def justine_delima():
                 # TODO Patricia Anne
                 # TODO Kath
             case 4: # Exit
-                print('\nGoodbyye!\n')
+                print('\nGoodbye!\n')
                 return
 
 justine_delima()
