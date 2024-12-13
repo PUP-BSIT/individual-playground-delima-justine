@@ -2,4 +2,4 @@ from packages import delima
 
 delima.justine_delima()
 
-# This code is checked! - Justine
+# This code is cool and checked! - Justine
