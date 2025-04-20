@@ -1,3 +1,3 @@
 ## Justine Delima
 
-<code style='color: green'>Lorem Ipsum</code>
+<code style='background-color: green; color: white'>Lorem Ipsum</code>
